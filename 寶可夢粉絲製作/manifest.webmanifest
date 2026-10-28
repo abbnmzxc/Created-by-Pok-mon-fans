@@ -1,0 +1,14 @@
+{
+  "name": "寶可夢：無盡草叢",
+  "short_name": "無盡草叢",
+  "description": "可在電腦、Android 與 iPhone 上遊玩的寶可夢生存遊戲",
+  "start_url": "./mobile.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#07111e",
+  "theme_color": "#07111e",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
